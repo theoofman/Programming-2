@@ -1,0 +1,5 @@
+Platform: Mobile App
+Hardware Requirements: IOS 15 or later, Android 3.0 or later
+10mb free storage required
+Touchscreen
+Start work on backend servers, then work on ui
